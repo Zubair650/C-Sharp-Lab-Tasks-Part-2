@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\USER\OneDrive\Desktop\C# lab tasks\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
