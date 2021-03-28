@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\bin\Debug\Test Interface 1.exe.config
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\bin\Debug\Test Interface 1.exe
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\bin\Debug\Test Interface 1.pdb
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\obj\Debug\Test Interface 1.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\obj\Debug\Test Interface 1.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\obj\Debug\Test Interface 1.exe
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Final Term Lab-3\Test Interface 1\Test Interface 1\obj\Debug\Test Interface 1.pdb
