@@ -12,7 +12,7 @@ namespace Test_Interface_3
         void retune(double frequency);
 
         void setVolume(int loudness);
-        void changeChannel();
+        void changeChannel(int k);
 
     }
 

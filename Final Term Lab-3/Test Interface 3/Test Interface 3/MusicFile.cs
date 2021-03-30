@@ -23,8 +23,24 @@ namespace Test_Interface_3
             this.durationInSeconds = durationInSeconds;
 
         }
+        private Phone phone;
+
+        public Phone Ph
+        {
+            get { return phone; }
+            set { phone = value; }
+        }
+
+        public void ShowInfo()
+        {
+            
+            Console.WriteLine("Title: " + title);
+            Console.WriteLine("Artist: " + artist);
+            Console.WriteLine("Year Of Release: " + yearOfRelease);
+            Console.WriteLine("Duration In Seconds: "+ durationInSeconds);
 
 
+        }
 
     }
 }
