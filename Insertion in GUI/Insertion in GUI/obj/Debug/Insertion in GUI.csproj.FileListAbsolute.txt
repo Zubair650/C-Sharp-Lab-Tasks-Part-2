@@ -1,0 +1,10 @@
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\bin\Debug\Insertion in GUI.exe.config
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\bin\Debug\Insertion in GUI.exe
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\bin\Debug\Insertion in GUI.pdb
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion in GUI.csprojAssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion_in_GUI.Form1.resources
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion_in_GUI.Properties.Resources.resources
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion in GUI.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion in GUI.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion in GUI.exe
+C:\Users\USER\OneDrive\Desktop\C# Final Term Lab tasks\Insertion in GUI\Insertion in GUI\obj\Debug\Insertion in GUI.pdb
